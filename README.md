@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shiva Nandan Thakur</h1>
 <h3 align="center">A passionate frontend developer from NEPAL</h3>
-<img align="right" alt="coding"  src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWwxZm83c2t3aGc5azA5N3pva3B5cm5ybXd4a3cwbzk2NXl5YmRqOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mTPjPA6SSXgTsnZ1Dh/giphy.webp">
+<img align="right" alt="coding"  hegit="300" widht="300"src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWwxZm83c2t3aGc5azA5N3pva3B5cm5ybXd4a3cwbzk2NXl5YmRqOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mTPjPA6SSXgTsnZ1Dh/giphy.webp">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thundexz&label=Profile%20views&color=0e75b6&style=flat" alt="thundexz" /> </p>
